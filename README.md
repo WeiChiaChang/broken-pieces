@@ -1,8 +1,8 @@
-## css-doodle-play    ![openSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+## broken-pieces    ![openSource](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/css-doodle-play">
-    <img alt="css-doodle-play" src="src/assets/images/overview.png" width="800">
+    <img alt="css-doodle-play" src="src/assets/images/demo.png" width="800">
   </a>
 </p>
 <p align=center>
